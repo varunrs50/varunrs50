@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Varun Kumar R.S
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning Fullstack Web Development
 - 📫 How to reach me 
 - Facebook - https://www.facebook.com/varunrs50
 - Twitter  - https://www.twitter.com/varunrs50
